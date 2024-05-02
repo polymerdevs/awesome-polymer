@@ -27,6 +27,7 @@ Polymer is Ethereum’s Interoperability Hub, connecting Ethereum Layer 2’s us
 - [vibc-sdk](https://github.com/script-money/vibc-sdk) - A community building SDK help application devs to scaffold and test IBC enabled contracts easily
 - [vibc-knife](https://github.com/Halimao/vibc-knife) - CLI Tool to generate Polymer dApp template projects
 - [ibc-inspector](https://www.ibcinspector.com/) - Community built Polymer Explorer
+- [polylens](https://github.com/IbcFan/polylens) - PolyLens is a web3 application designed to monitor and analyze packet latency for Polymer channels, which are crucial for inter-chain communication.
 
 ## Polymer Repositories
 
