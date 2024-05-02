@@ -22,7 +22,7 @@ Polymer is Ethereum’s Interoperability Hub, connecting Ethereum Layer 2’s us
 
 - [community-demo-apps](https://github.com/polymerdevs/community-demo-dapps) - Repository containing community demo applications
 
-## Community Tools 
+## Community Tools
 
 - [vibc-sdk](https://github.com/script-money/vibc-sdk) - A community building SDK help application devs to scaffold and test IBC enabled contracts easily
 - [vibc-knife](https://github.com/Halimao/vibc-knife) - CLI Tool to generate Polymer dApp template projects
@@ -35,3 +35,10 @@ Polymer is Ethereum’s Interoperability Hub, connecting Ethereum Layer 2’s us
 - [monomer](https://github.com/polymerdao/monomer) - Monomer uses the OP stack to make Cosmos applications deployable as Ethereum rollups.
 - [ibc-explorer](https://github.com/polymerdao/ibc-explorer) - IBC Dashboard for Polymer
 - [developer-hub](https://github.com/polymerdao/developer-hub) - Polymers Documentation
+
+## Useful Resources
+
+- [Polymer Labs Blog](https://www.polymerlabs.org/blog)
+- [Supported Networks](https://docs.polymerlabs.org/docs/build/supp-networks)
+- [Polymer Labs Twitter](https://twitter.com/Polymer_Labs)
+- [IBC Documentation](https://ibc.cosmos.network/main)
