@@ -6,7 +6,7 @@ Polymer is Ethereum’s Interoperability Hub, connecting Ethereum Layer 2’s us
 
 ## Polymer Documentation 
 
-[Polymer Docs](https://docs.polymerlabs.org/)
+- [Polymer Docs](https://docs.polymerlabs.org/)
 
 ## Quickstart to build Polymer dApps
 
