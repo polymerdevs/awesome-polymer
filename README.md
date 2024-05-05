@@ -4,21 +4,10 @@ Polymer is Ethereum’s Interoperability Hub, connecting Ethereum Layer 2’s us
 
 ![](https://assets-global.website-files.com/6568cc08c3912b699b50e0bb/660dd94d518acc329b5f130c_lpb2828UeQc0VVRnIgEVpp02SLJU0UdEADr6wJspAke1lY3SX23BA7YUkFw3Nq1W4GpEk6415zZpwe-m3XYqqvw_Xa7pI_4BTfnyK9IJhjgx2Zr7p0twIDLGoMnBsKh6JWmxR7WKjMXQivQbsoF5dPU.png)
 
-## Polymer Documentation 
-
-- [Polymer Docs](https://docs.polymerlabs.org/)
 
 ## Quickstart to build Polymer dApps
 
 - [Polymer IBC App Solidity Template](https://docs.polymerlabs.org/docs/quickstart/start) is the fastest way to start building frames
-
-## Ask for help & meet other Polymer builders
-
-- [Polymer Labs Discord](https://discord.gg/4pcEyWEP) - The main community enagement platform for Polymer
-
-## Official Tools
-
-- [Polymer Explorer](https://sepolia.polymer.zone/) - Polymer Explorer to find information about packets, channels, connections and clients
 
 ## Community Demo Apps
 
@@ -31,15 +20,36 @@ Polymer is Ethereum’s Interoperability Hub, connecting Ethereum Layer 2’s us
 - [ibc-inspector](https://www.ibcinspector.com/) - Community built Polymer Explorer
 - [polylens](https://github.com/IbcFan/polylens) - PolyLens is a web3 application designed to monitor and analyze packet latency for Polymer channels, which are crucial for inter-chain communication.
 
-## Polymer Repositories
+## Repositories
+
+### Open IBC Repositories
+
+OpenIBC is an initiative focused on the growth, evolution and development of the inter-blockchain communication protocol across all ecosystems.
 
 - [vibc-core-smart-contracts](https://github.com/open-ibc/vibc-core-smart-contracts) - Virtual implementation of the IBC Specification in Solidity
-- [monomer](https://github.com/polymerdao/monomer) - Monomer uses the OP stack to make Cosmos applications deployable as Ethereum rollups.
+- [ibc-app-solidity-template](https://github.com/open-ibc/ibc-app-solidity-template) - This repo provides a starter project to build IBC enabled Solidity contracts that connect rollups to one another Polymer Hub, through the vIBC core contracts
+
+
+### Polymer DAO Repositories
+
+PolymerDAO is DAO which governs Polymers IBC routing and rollup protocol.
+
+- [monomer](https://github.com/polymerdao/monomer) - Monomer uses the OP stack to make Cosmos applications deployable as Ethereum rollups
 - [ibc-explorer](https://github.com/polymerdao/ibc-explorer) - IBC Dashboard for Polymer
 - [developer-hub](https://github.com/polymerdao/developer-hub) - Polymers Documentation
+- [polymer-registry](https://github.com/polymerdao/polymer-registry) - Polymers chain registry
+
+## Ask for help & meet other Polymer builders
+
+- [Polymer Labs Discord](https://discord.gg/4pcEyWEP) - The main community enagement platform for Polymer
+
+## Official Tools
+
+- [Polymer Explorer](https://sepolia.polymer.zone/) - Polymer Explorer to find information about packets, channels, connections and clients
 
 ## Useful Resources
 
+- [Polymer Docs](https://docs.polymerlabs.org/)
 - [Polymer Labs Blog](https://www.polymerlabs.org/blog)
 - [Supported Networks](https://docs.polymerlabs.org/docs/build/supp-networks)
 - [Polymer Labs Twitter](https://twitter.com/Polymer_Labs)
