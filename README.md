@@ -54,3 +54,4 @@ PolymerDAO is DAO which governs Polymers IBC routing and rollup protocol.
 - [Supported Networks](https://docs.polymerlabs.org/docs/build/supp-networks)
 - [Polymer Labs Twitter](https://twitter.com/Polymer_Labs)
 - [IBC Documentation](https://ibc.cosmos.network/main)
+- [Polymer Labs Youtube Channel](https://www.youtube.com/channel/UCwP64-bd6C9RrQvPhqPKQ0g)
