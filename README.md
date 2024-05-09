@@ -1,9 +1,21 @@
+<div align="center">	
+    <p>	
+	    <a href="https://www.eigenlayer.xyz/">	
+            <div>	
+	            <img src="https://docs.polymerlabs.org/img/logo-png-black.png" width="380"  alt="Polymer">	
+		    </div>	
+            <br>
+			    <b>⚡️ All things Polymer, in one place ⚡️</b>	
+	        </br>
+		</a>	
+	</p>	
+</div>
+
 # Awesome Polymer
 
 Polymer is Ethereum’s Interoperability Hub, connecting Ethereum Layer 2’s using the Inter-Blockchain Communication Protocol. Polymer provides IBC as a feature to the Ethereum ecosystem enabling modular security and permissionless expansion of the IBC Network.
 
 ![](https://assets-global.website-files.com/6568cc08c3912b699b50e0bb/660dd94d518acc329b5f130c_lpb2828UeQc0VVRnIgEVpp02SLJU0UdEADr6wJspAke1lY3SX23BA7YUkFw3Nq1W4GpEk6415zZpwe-m3XYqqvw_Xa7pI_4BTfnyK9IJhjgx2Zr7p0twIDLGoMnBsKh6JWmxR7WKjMXQivQbsoF5dPU.png)
-
 
 ## Quickstart to build Polymer dApps
 
@@ -28,7 +40,6 @@ OpenIBC is an initiative focused on the growth, evolution and development of the
 
 - [vibc-core-smart-contracts](https://github.com/open-ibc/vibc-core-smart-contracts) - Virtual implementation of the IBC Specification in Solidity
 - [ibc-app-solidity-template](https://github.com/open-ibc/ibc-app-solidity-template) - This repo provides a starter project to build IBC enabled Solidity contracts that connect rollups to one another Polymer Hub, through the vIBC core contracts
-
 
 ### Polymer DAO Repositories
 
